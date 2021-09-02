@@ -65,3 +65,5 @@ The p-value is 3.405-08= 0.0000000304. Suppose this sample is taken from a large
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+To to come to the conclusion, we figured out what type of problem we were encountering. We needed a numerical categorical helper file and we uploaded the Numerical-Cat file onto Rstudio. We imported a function comparing the cultivators c39 and c52 vitamin C output. We made a box plot and figured out c52 yielded higher vitamin C than c39. We then made numerical result to find out the median of both c39 and c52 further reinforcing our statement of c52 having a higher yield. The last thing we did was make a inferential result and figured out we would reject the null hypotenuse because of the p value being extremely small.  
